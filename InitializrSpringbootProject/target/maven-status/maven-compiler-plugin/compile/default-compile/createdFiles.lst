@@ -1,0 +1,4 @@
+examen2spring\demo\DemoApplication.class
+examen2spring\demo\models\Alumnado.class
+examen2spring\demo\controllers\AlumnadoController.class
+examen2spring\demo\repositories\AlumnadoRepository.class
